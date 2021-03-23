@@ -1,0 +1,2 @@
+# image_colour_identification
+A very common task in Computer Vision is based on identifying colors. More generally, a fascinating aspect of learning is that sometimes we know things but we can’t explain them. For example, if I ask you to describe me the “red color” your only option is to show me a red object, like the red orange that is reported above… but you can’t really explain what “red” is. For this reason a certain effort is necessary to transmit the definition of a color to a computer.
